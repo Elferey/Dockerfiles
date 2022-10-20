@@ -5,7 +5,5 @@ $b = 4;
  
 $c = $a + $b;
  
-echo "a + b =".$c."\n";
-echo "\n";
-echo "Yea"; 
+echo "a + b =".$c."\n"; 
 ?>
