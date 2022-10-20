@@ -5,5 +5,6 @@ $b = 4;
  
 $c = $a + $b;
  
-echo "a + b =".$c."\n"; 
+echo "a + b =".$c."\n";
+echo "Katika"; 
 ?>
